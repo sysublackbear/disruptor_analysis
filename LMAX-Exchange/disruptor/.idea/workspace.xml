@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33ec0964-e27b-4db4-a10a-af4702c99f20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/AbstractSequencer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/AbstractSequencer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/AggregateEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/AggregateEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/AlertException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/AlertException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/BatchEventProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/BatchEventProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/BatchStartAware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/BatchStartAware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/BlockingWaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/BlockingWaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/BusySpinWaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/BusySpinWaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/Cursored.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/Cursored.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/DataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/DataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventPoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventPoller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventSequencer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventSequencer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventSink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventTranslatorOneArg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventTranslatorOneArg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/ExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/FatalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/FatalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/FixedSequenceGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/FixedSequenceGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/IgnoreExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/IgnoreExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/InsufficientCapacityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/InsufficientCapacityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/LifecycleAware.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/LifecycleAware.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/LiteBlockingWaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/LiteBlockingWaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/LiteTimeoutBlockingWaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/LiteTimeoutBlockingWaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/MultiProducerSequencer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/MultiProducerSequencer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/NoOpEventProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/NoOpEventProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/PhasedBackoffWaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/PhasedBackoffWaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/ProcessingSequenceBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/ProcessingSequenceBarrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/RingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/RingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/Sequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SequenceBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SequenceBarrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SequenceGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SequenceGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SequenceGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SequenceGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/Sequenced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/Sequenced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/Sequencer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/Sequencer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SingleProducerSequencer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SingleProducerSequencer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SleepingWaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/SleepingWaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/TimeoutBlockingWaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/TimeoutBlockingWaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/WaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/WaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/WorkHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/WorkHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/WorkProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/WorkProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/WorkerPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/WorkerPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/YieldingWaitStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/YieldingWaitStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/BasicExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/BasicExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ConsumerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ConsumerInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ConsumerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ConsumerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/Disruptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/Disruptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/EventHandlerGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/EventHandlerGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/EventProcessorFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/EventProcessorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/EventProcessorInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/EventProcessorInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ExceptionHandlerSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ExceptionHandlerSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ExceptionHandlerWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ExceptionHandlerWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ProducerType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/ProducerType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/WorkerPoolInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/dsl/WorkerPoolInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/util/ThreadHints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/util/ThreadHints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lmax/disruptor/util/Util.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jvuyygmu" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1haj1tzsQehnTLxj189X2f5IfkQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33ec0964-e27b-4db4-a10a-af4702c99f20" name="Default Changelist" comment="" />
+      <created>1600255885947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600255885947</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="251" key="SettingsEditor" timestamp="1602594976808">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="462" y="251" key="SettingsEditor/1920.23.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1602594976808" />
+    <state x="662" y="366" width="692" height="490" key="find.popup" timestamp="1602169000732">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="662" y="366" width="692" height="490" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1602169000732" />
+    <state x="662" y="366" width="692" height="490" key="find.popup/1920.23.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1601364019665" />
+    <state x="626" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1601868020304">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="626" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1601868020304" />
+    <state x="626" y="288" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1601437859407" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lmax/disruptor/EventSink.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
